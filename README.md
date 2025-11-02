@@ -1,11 +1,12 @@
-# Bento Auto Spawn
+# Bento PvP Utility
 
-Automatically releases spirit in PvP zones to reduce downtime and get back into combat faster.
+PvP utility addon that automatically releases spirit in PvP zones and provides context-aware TAB targeting that switches between player and enemy targeting based on your current zone.
 
 ## Features
 
-- **Auto Release** - Automatically releases spirit when you die in PvP zones or combat zones
+- **Auto Spirit Release** - Automatically releases spirit when you die in PvP zones or combat zones
 - **Smart Detection** - Skips auto-release when self-resurrection abilities are available
+- **Context-Aware TAB Targeting** - Automatically switches TAB binding between targeting enemy players (PvP) and targeting any enemy (PvE) based on zone type
 - **PvP Optimized** - Only activates in battlegrounds, arenas, and world PvP combat zones
 
 ## Installation
@@ -16,4 +17,9 @@ Automatically releases spirit in PvP zones to reduce downtime and get back into 
 
 ## Usage
 
-The addon works automatically once installed. When you die in a PvP zone, your spirit will be released automatically after a short delay.
+The addon works automatically once installed:
+
+- When you die in a PvP zone, your spirit will be released automatically after a short delay
+- TAB key binding updates automatically when entering or leaving PvP zones
+- In arenas, battlegrounds, or world PvP: TAB targets nearest enemy player
+- In PvE zones: TAB targets nearest enemy (any type)

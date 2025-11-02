@@ -1,7 +1,0 @@
-## Interface: 110200
-## Title: Bento Auto Spawn
-## Notes: Automatically releases spirit in PvP zones to reduce downtime
-## Author: MIYANKO
-## Version: 1.0.0
-
-BentoAutoSpawn.lua

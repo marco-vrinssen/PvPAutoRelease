@@ -1,0 +1,7 @@
+## Interface: 110200
+## Title: Bento PvP Utility
+## Notes: Auto spirit release and context-aware TAB targeting for PvP zones
+## Author: MIYANKO
+## Version: 2.0.0
+
+BentoPvPUtility.lua
